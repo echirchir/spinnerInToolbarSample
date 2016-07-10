@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToolBar Spinner</string>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+    </string-array>
+</resources>
